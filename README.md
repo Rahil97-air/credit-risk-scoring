@@ -121,7 +121,7 @@ streamlit run app/streamlit_app.py
 - **Isotonic calibration** — ensures probabilities are reliable for EL calculations
 - **F2 threshold** — credit decisions penalise missed defaults more than false alarms
 - **SHAP TreeExplainer** — fast and exact for tree models; used for both audit and live explanations
-- **PSI monitoring** — tracks feature distribution shift between train and production
+- **PSI monitoring** — tracks feature distribution shift between train and production.
 
 ---
 
