@@ -1,0 +1,43 @@
+# ── Dataset (too large for GitHub, 158MB+) ───────────────────────────────────
+data/raw/*.csv
+data/raw/*.zip
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Jupyter checkpoints ───────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE files ─────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+outputs/pipeline.log
+*.log
+
+# ── Secrets / env ─────────────────────────────────────────────────────────────
+.env
+*.env
+
+# ── Optional: comment these out if you want to commit pre-trained models ──────
+# models/*.pkl
+# models/*.json

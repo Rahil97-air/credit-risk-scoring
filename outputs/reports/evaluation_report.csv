@@ -1,0 +1,4 @@
+metric,value
+AUC-ROC,0.6725
+Average Precision,0.19
+Default Rate,0.082
