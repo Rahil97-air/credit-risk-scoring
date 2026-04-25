@@ -132,4 +132,3 @@ streamlit run app/streamlit_app.py
 - Model Card with full documentation
 - Adverse action notices supported
 
-See [MODEL_CARD.md](MODEL_CARD.md) for full responsible AI documentation.
