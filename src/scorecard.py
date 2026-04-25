@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 from src.config import (
     SCORECARD_OFFSET, SCORECARD_FACTOR, PLOTS_PATH, REPORTS_PATH,
